@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/gavlab30/Photo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <title>Photo Blog</title>
+    <link rel="stylesheet" href="photos.css" />
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <!-- PUT YOUR NAME HERE! -->
+    <nav>Gavin/Labue</nav>
 
-### Markdown
+    <!-- Massimo Margagnoni -->
+    <img src="http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg" /><img src="http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg" /><img src="http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Giuseppe Milo -->
+    <img src="http://c1.staticflickr.com/9/8788/17367410309_78abb9e5b6_b.jpg" /><img src="http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg" /><img src="http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg" />
 
-```markdown
-Syntax highlighted code block
+    <!-- GörlitzPhotography -->
+    <img src="http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg" /><img src="http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg" /><img src="http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg" />
 
-# Header 1
-## Header 2
-### Header 3
+    <!-- All Photos Licensed Under Creative Commons 2.0 -->
+    <!-- https://creativecommons.org/licenses/by/2.0/legalcode  -->
+</body>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gavlab30/Photo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
